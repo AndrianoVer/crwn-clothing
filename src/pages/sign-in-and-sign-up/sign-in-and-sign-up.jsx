@@ -1,10 +1,12 @@
 import './sign-in-and-sign-up.scss';
-import Sign from '../../component/sign-in'
+import SignIn from '../../component/sign-in';
+import SignUp from '../../component/sign-up'
 
 const SignInAndSignUpPage = () => {
     return (
         <div className='sign-in-and-sign-up'>
-            <Sign />
+            <SignIn />
+            <SignUp />
         </div>
     )
 }
