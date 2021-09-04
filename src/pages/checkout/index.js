@@ -1,2 +1,2 @@
-import CheckoutPage from './checkout.jsx';
+import CheckoutPage from './checkout';
 export default CheckoutPage;
